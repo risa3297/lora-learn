@@ -1,0 +1,22 @@
+# Data (auto-downloaded by torchvision)
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Model outputs / checkpoints
+*.pt
+*.pth
+*.ckpt
+!*.github/
